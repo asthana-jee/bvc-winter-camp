@@ -1,0 +1,8 @@
+Experience of Winter Bootcamp at Bhakti Vedanta Club.
+
+The bootcamp held by BVC in winter of 2023 was amazing. We got to learn about Machine Learning using Python. In the afternoon session, we learned to code computer
+while in evening session we learned to code our mind. Firstly learning libraries was one of my goals, but it scared it always since it had loads and loads of methods 
+and I didn't knew where to start from. The Bootcamp helped me to overcome this and taught me some basic functionality of libraries like numpy, pandas, matplotlib, seaborn.
+Evening sessions were fantastic since we learned a lot from it. We learned to train our mind and got a solution to solve the real problem of one's life.
+I hope BVC continues to take such Bootcamps which trains us for future work and at the same time takes us closer to Krishna.
+Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Ram Hare Ram Ram Ram Hare Hare
